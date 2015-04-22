@@ -1,0 +1,23 @@
+{
+  "name": "stack-analysis",
+  "version": "0.1.0-dev",
+  "homepage": "https://github.com/valaxy/stack-analysis",
+  "authors": [
+    "valaxy <valaxy@qq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.17"
+  },
+  "devDependencies": {
+    "requirejs": "~2.1.17",
+    "qunit": "~1.18.0"
+  }
+}

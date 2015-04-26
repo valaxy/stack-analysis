@@ -14,17 +14,15 @@ var c = function() { b() }
 b()
 ```
 
-log something like
+will log something like
 
 ```json
 [
-    ...
     {
-        col: "11"        
-        func: "stack"    
-        line: "36"
-        url: "http://localhost/stack-analysis/index.js"
+        "col": "11"        
+        "func": "stack"    
+        "line": "36"
+        "url": "http://localhost/stack-analysis/index.js"
     }
-    ..
 ]
 ```

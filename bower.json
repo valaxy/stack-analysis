@@ -1,6 +1,6 @@
 {
   "name": "stack-analysis",
-  "version": "0.1.0-dev",
+  "version": "0.1.0",
   "homepage": "https://github.com/valaxy/stack-analysis",
   "authors": [
     "valaxy <valaxy@qq.com>"
@@ -13,9 +13,6 @@
     "test",
     "tests"
   ],
-  "dependencies": {
-    "requirejs": "~2.1.17"
-  },
   "devDependencies": {
     "requirejs": "~2.1.17",
     "qunit": "~1.18.0"

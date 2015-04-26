@@ -19,9 +19,9 @@ will log something like
 ```json
 [
     {
-        "col": "11"        
-        "func": "stack"    
-        "line": "36"
+        "col": "11",        
+        "func": "stack",    
+        "line": "36",
         "url": "http://localhost/stack-analysis/index.js"
     }
 ]
